@@ -10,9 +10,7 @@
 
 ###
 
-<div align="center">
-  <img height="100" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif"  />
-</div>
+<img align="right" height="100" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif"  />
 
 ###
 
