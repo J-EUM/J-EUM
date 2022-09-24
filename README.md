@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning node.js and express<br>🎯 Goals: to be better than i was yesterday<br>🎲 Fun fact: I failed to see the northern lights in Iceland</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning node.js and express<br>🎯 Goals: to be better than I was yesterday<br>🎲 Fun fact: I failed to see the northern lights in Iceland</p>
 
 ###
 
