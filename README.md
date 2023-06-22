@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jungmin and I'm a backend developer👩‍💻, from Seoul, 🇰🇷</p>
+<p align="left">My name is Junho and I'm a backend developer👩‍💻, from Seoul, 🇰🇷</p>
 
 ###
 
